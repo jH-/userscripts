@@ -7,6 +7,8 @@
 // @grant       GM_getValue
 // @grant       GM_setValue
 // @grant       GM_registerMenuCommand
+// @downloadURL https://github.com/jH-/userscripts/blob/master/work/hide-azdo-projects.user.js
+// @updateURL   https://github.com/jH-/userscripts/blob/master/work/hide-azdo-projects.user.js
 // ==/UserScript==
 
 // This script was created as a workaround for the lack of project archiving or deprecation features in Azure DevOps.
